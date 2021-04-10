@@ -1,4 +1,4 @@
-![](/home/soroush/Desktop/Dry_Bean_Machine_Learning/figure/bean-black-rice-cereal-close-up.jpg)
+![](/figure/bean-black-rice-cereal-close-up.jpg)
 
 # Data Set Information:
 
